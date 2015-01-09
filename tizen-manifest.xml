@@ -3,7 +3,7 @@
     <author email="gvkalra@gmail.com">Gaurav Kalra</author>
     <description>A no nonsense ad-free screen locker for Tizen</description>
     <profile name="mobile"/>
-    <ui-application appid="org.tizen.screenlock" auto-restart="false" exec="screenlock" multiple="false" nodisplay="false" on-boot="false" taskmanage="true" type="capp">
+    <ui-application appid="org.tizen.screenlock" auto-restart="false" exec="screenlock" multiple="false" nodisplay="false" on-boot="false" taskmanage="false" type="capp">
         <label>screenlock</label>
         <icon>icon.png</icon>
     </ui-application>
