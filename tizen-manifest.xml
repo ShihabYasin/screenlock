@@ -10,4 +10,5 @@
     <privileges>
         <privilege>http://tizen.org/privilege/display</privilege>
     </privileges>
+    <feature name="http://tizen.org/feature/screen.size.all">true</feature>
 </manifest>

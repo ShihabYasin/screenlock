@@ -80,3 +80,4 @@ local.properties
 .sdk_delta.info
 .sign/
 .tproject
+.package-stamp
