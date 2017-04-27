@@ -1,3 +1,5 @@
+:warning: **This repository is not maintained anymore.**
+
 # screenlock
 A no nonsense ad-free screen locker for Tizen
 
